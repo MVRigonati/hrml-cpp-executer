@@ -7,7 +7,7 @@ The execution has two parts.
 The first one when the code reads the tags and storage them in the memory.
 And the second one where the queries are executed, printing the result in the standard output, if no result is found "Not Found!" is printed.
 
-One tag has its name and its attributes, each attribute needs to have a value with the equal sign before it, and spaces in both sides of the equals sign, for exemple: attribute = "value".
+One tag has its name and its attributes, each attribute needs to have a value with the equal sign before it, and spaces in both sides of the equals sign, for example: attribute = "value".
 Every tag needs to be closed, so to complement the example: <tagName attribute = "value"></tag>
 One tag can be inside of another, although there's the needing of closing them in the same order (like HTML).
 
