@@ -1,0 +1,16 @@
+10 5
+<tag1 v = "value">
+</tag1>
+<tag2 value = "hhh" name = "Tag2">
+<tag3>
+<tag4 name = "Tag4">
+<tag5 att = "LastOne">
+</tag5>
+</tag4>
+</tag3>
+</tag2>
+tag1~v
+tag2.tag3~vv
+tag2.tag3.tag4~name
+tag2.tag3.tag4.tag5~att
+tag2.tag3.tag4.tag5~name
